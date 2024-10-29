@@ -16,3 +16,5 @@ class Person:
         self.connections = set()
     
     "Making changes for vinnie"
+    
+    "Making changes for brian"
